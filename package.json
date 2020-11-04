@@ -1,0 +1,23 @@
+{
+  "name": "mern-template",
+  "version": "1.0.0",
+  "description": "A MERN template that can be used to quickly setup an application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksentak/mern-template.git"
+  },
+  "author": "Keaton Sentak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksentak/mern-template/issues"
+  },
+  "homepage": "https://github.com/ksentak/mern-template#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11"
+  }
+}
